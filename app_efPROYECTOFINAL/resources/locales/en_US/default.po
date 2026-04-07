@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: the rapid development php framework"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "API"
+msgstr "API"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Listado de Categorías"
+msgstr "Category List"
+
+msgid "Nueva Categoría"
+msgstr "New Category"
+
+msgid "Usuarios"
+msgstr "Users"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Nombre"
+msgstr "Name"
+
+msgid "Descripción"
+msgstr "Description"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Creado"
+msgstr "Created"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Sin descripción"
+msgstr "No description"
+
+msgid "Activo"
+msgstr "Active"
+
+msgid "Inactivo"
+msgstr "Inactive"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "No hay categorías registradas."
+msgstr "No categories registered."
+
+msgid "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) of {{count}} total"
+
+msgid "<< Primero"
+msgstr "<< First"
+
+msgid "< Anterior"
+msgstr "< Previous"
+
+msgid "Siguiente >"
+msgstr "Next >"
+
+msgid "Último >>"
+msgstr "Last >>"
+
+msgid "¿Estás seguro de eliminar la categoría \"{0}\"?"
+msgstr "Are you sure you want to delete the category \"{0}\"?"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Accede a tu cuenta para continuar"
+msgstr "Access your account to continue"
+
+msgid "Correo Electrónico"
+msgstr "Email"
+
+msgid "tucorreo@ejemplo.com"
+msgstr "youremail@example.com"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Mostrar contraseña"
+msgstr "Show password"
+
+msgid "Ocultar contraseña"
+msgstr "Hide password"
+
+msgid "Recordarme"
+msgstr "Remember me"
+
+msgid "¿No tienes cuenta?"
+msgstr "Don't have an account?"
+
+msgid "Regístrate aquí"
+msgstr "Register here"
+
+msgid "Cambiar a modo oscuro"
+msgstr "Switch to dark mode"
+
+msgid "Cambiar a modo claro"
+msgstr "Switch to light mode"
+
+msgid "usuarios registrados"
+msgstr "registered users"
+
+msgid "Última actualización"
+msgstr "Last update"
+
+msgid "Categorías"
+msgstr "Categories"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "Nuevo Usuario"
+msgstr "New User"
+
+msgid "Total Usuarios"
+msgstr "Total Users"
+
+msgid "Usuarios Activos"
+msgstr "Active Users"
+
+msgid "No hay usuarios registrados"
+msgstr "No registered users"
+
+msgid "Comienza agregando un nuevo usuario"
+msgstr "Start by adding a new user"
+
+msgid "Crear primer usuario"
+msgstr "Create first user"
+
+msgid "Gestión de Usuarios"
+msgstr "User Management"
+
+msgid "Crear Nuevo Usuario"
+msgstr "Create New User"
+
+msgid "Complete los campos para registrar un nuevo usuario"
+msgstr "Complete the fields to register a new user"
+
+msgid "categorías registradas"
+msgstr "registered categories"
+
+msgid "Total Categorías"
+msgstr "Total Categories"
+
+msgid "Categorías Activas"
+msgstr "Active Categories"
+
+msgid "Categorías Inactivas"
+msgstr "Inactive Categories"
+
+msgid "Idiomas"
+msgstr "Languages"
+
+msgid "Lista de Categorías"
+msgstr "Category List"
+
+msgid "Buscar categorías..."
+msgstr "Search categories..."
+
+msgid "Comienza agregando una nueva categoría"
+msgstr "Start by adding a new category"
+
+msgid "Crear primera categoría"
+msgstr "Create first category"
+
+msgid "Primera página"
+msgstr "First page"
+
+msgid "Anterior"
+msgstr "Previous"
+
+msgid "Siguiente"
+msgstr "Next"
+
+msgid "Última página"
+msgstr "Last page"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Personal Information"
+msgstr "Personal Information"
+
+msgid "Contact Information"
+msgstr "Contact Information"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "System Information"
+msgstr "System Information"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Creation Date"
+msgstr "Creation Date"
+
+msgid "Last Update"
+msgstr "Last Update"
+
+msgid "Modifying information of"
+msgstr "Modifying information of"
+
+msgid "Update User"
+msgstr "Update User"
+
+msgid "Weak password"
+msgstr "Weak password"
+
+msgid "Medium password"
+msgstr "Medium password"
+
+msgid "Strong password"
+msgstr "Strong password"
+
+msgid "Back to list"
+msgstr "Back to list"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Last Name"
+msgstr "Last Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Modify category information."
+msgstr "Modify category information."
+
+msgid "Complete fields to register a new category."
+msgstr "Complete fields to register a new category."
+
+msgid "Category Name"
+msgstr "Category Name"
+
+msgid "Ex: Electronics, Home, Clothing..."
+msgstr "Ex: Electronics, Home, Clothing..."
+
+msgid "Maximum 100 characters."
+msgstr "Maximum 100 characters."
+
+msgid "Active Category"
+msgstr "Active Category"
+
+msgid "Consult the complete information of the selected category."
+msgstr "Consult the complete information of the selected category."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Last Modification"
+msgstr "Last Modification"

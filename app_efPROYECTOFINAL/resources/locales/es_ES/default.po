@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: el framework de desarrollo rápido de PHP"
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "API"
+msgstr "API"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+msgid "Logout"
+msgstr "Cerrar Sesión"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Listado de Categorías"
+msgstr "Listado de Categorías"
+
+msgid "Nueva Categoría"
+msgstr "Nueva Categoría"
+
+msgid "Usuarios"
+msgstr "Usuarios"
+
+msgid "Cerrar Sesión"
+msgstr "Cerrar Sesión"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Nombre"
+msgstr "Nombre"
+
+msgid "Descripción"
+msgstr "Descripción"
+
+msgid "Estado"
+msgstr "Estado"
+
+msgid "Creado"
+msgstr "Creado"
+
+msgid "Acciones"
+msgstr "Acciones"
+
+msgid "Sin descripción"
+msgstr "Sin descripción"
+
+msgid "Activo"
+msgstr "Activo"
+
+msgid "Inactivo"
+msgstr "Inactivo"
+
+msgid "Ver"
+msgstr "Ver"
+
+msgid "Editar"
+msgstr "Editar"
+
+msgid "Eliminar"
+msgstr "Eliminar"
+
+msgid "No hay categorías registradas."
+msgstr "No hay categorías registradas."
+
+msgid "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de {{count}} total"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de {{count}} total"
+
+msgid "<< Primero"
+msgstr "<< Primero"
+
+msgid "< Anterior"
+msgstr "< Anterior"
+
+msgid "Siguiente >"
+msgstr "Siguiente >"
+
+msgid "Último >>"
+msgstr "Último >>"
+
+msgid "¿Estás seguro de eliminar la categoría \"{0}\"?"
+msgstr "¿Estás seguro de eliminar la categoría \"{0}\"?"
+
+msgid "Iniciar Sesión"
+msgstr "Iniciar Sesión"
+
+msgid "Accede a tu cuenta para continuar"
+msgstr "Accede a tu cuenta para continuar"
+
+msgid "Correo Electrónico"
+msgstr "Correo Electrónico"
+
+msgid "tucorreo@ejemplo.com"
+msgstr "tucorreo@ejemplo.com"
+
+msgid "Contraseña"
+msgstr "Contraseña"
+
+msgid "Mostrar contraseña"
+msgstr "Mostrar contraseña"
+
+msgid "Ocultar contraseña"
+msgstr "Ocultar contraseña"
+
+msgid "Recordarme"
+msgstr "Recordarme"
+
+msgid "¿No tienes cuenta?"
+msgstr "¿No tienes cuenta?"
+
+msgid "Regístrate aquí"
+msgstr "Regístrate aquí"
+
+msgid "Cambiar a modo oscuro"
+msgstr "Cambiar a modo oscuro"
+
+msgid "Cambiar a modo claro"
+msgstr "Cambiar a modo claro"
+
+msgid "usuarios registrados"
+msgstr "usuarios registrados"
+
+msgid "Última actualización"
+msgstr "Última actualización"
+
+msgid "Categorías"
+msgstr "Categorías"
+
+msgid "Cerrar Sesión"
+msgstr "Cerrar Sesión"
+
+msgid "Nuevo Usuario"
+msgstr "Nuevo Usuario"
+
+msgid "Total Usuarios"
+msgstr "Total Usuarios"
+
+msgid "Usuarios Activos"
+msgstr "Usuarios Activos"
+
+msgid "No hay usuarios registrados"
+msgstr "No hay usuarios registrados"
+
+msgid "Comienza agregando un nuevo usuario"
+msgstr "Comienza agregando un nuevo usuario"
+
+msgid "Crear primer usuario"
+msgstr "Crear primer usuario"
+
+msgid "Gestión de Usuarios"
+msgstr "Gestión de Usuarios"
+
+msgid "Crear Nuevo Usuario"
+msgstr "Crear Nuevo Usuario"
+
+msgid "Complete los campos para registrar un nuevo usuario"
+msgstr "Complete los campos para registrar un nuevo usuario"
+
+msgid "categorías registradas"
+msgstr "categorías registradas"
+
+msgid "Total Categorías"
+msgstr "Total Categorías"
+
+msgid "Categorías Activas"
+msgstr "Categorías Activas"
+
+msgid "Categorías Inactivas"
+msgstr "Categorías Inactivas"
+
+msgid "Idiomas"
+msgstr "Idiomas"
+
+msgid "Lista de Categorías"
+msgstr "Lista de Categorías"
+
+msgid "Buscar categorías..."
+msgstr "Buscar categorías..."
+
+msgid "Comienza agregando una nueva categoría"
+msgstr "Comienza agregando una nueva categoría"
+
+msgid "Crear primera categoría"
+msgstr "Crear primera categoría"
+
+msgid "Primera página"
+msgstr "Primera página"
+
+msgid "Anterior"
+msgstr "Anterior"
+
+msgid "Siguiente"
+msgstr "Siguiente"
+
+msgid "Última página"
+msgstr "Última página"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Personal Information"
+msgstr "Información Personal"
+
+msgid "Contact Information"
+msgstr "Información de Contacto"
+
+msgid "Security"
+msgstr "Seguridad"
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "System Information"
+msgstr "Información del Sistema"
+
+msgid "User ID"
+msgstr "ID de Usuario"
+
+msgid "Creation Date"
+msgstr "Fecha de Creación"
+
+msgid "Last Update"
+msgstr "Última Actualización"
+
+msgid "Modifying information of"
+msgstr "Modificando información de"
+
+msgid "Update User"
+msgstr "Actualizar Usuario"
+
+msgid "Weak password"
+msgstr "Contraseña débil"
+
+msgid "Medium password"
+msgstr "Contraseña media"
+
+msgid "Strong password"
+msgstr "Contraseña fuerte"
+
+msgid "Back to list"
+msgstr "Volver a la lista"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Email"
+msgstr "Correo Electrónico"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Modify category information."
+msgstr "Modifica la información de la categoría."
+
+msgid "Complete fields to register a new category."
+msgstr "Completa los campos para registrar una nueva categoría."
+
+msgid "Category Name"
+msgstr "Nombre de la categoría"
+
+msgid "Ex: Electronics, Home, Clothing..."
+msgstr "Ej: Electrónica, Hogar, Ropa..."
+
+msgid "Maximum 100 characters."
+msgstr "Máximo 100 caracteres."
+
+msgid "Active Category"
+msgstr "Categoría activa"
+
+msgid "Consult the complete information of the selected category."
+msgstr "Consulta la información completa de la categoría seleccionada."
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Last Modification"
+msgstr "Última modificación"
